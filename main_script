@@ -74,7 +74,7 @@ complete.data %>%
 # 0,25% of flights are diverted.
 
 
-# It has been decided not to count the cancelled and diverted flights in the analysis.
+# It has been decided not to count the canceled and diverted flights in the analysis.
 # The goal is to analyze delays dividing the flight process into 4 phases:
 # departure delay, taxi out, air time and taxi in.
 
